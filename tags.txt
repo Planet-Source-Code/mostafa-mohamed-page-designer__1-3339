@@ -1,0 +1,45 @@
+Html
+"<html>
+
+</html>"
+Body
+"<body>
+
+</body>"
+Head
+"<head>   </head>"
+Align
+"<p align='align'>  your text here  </p>"
+Bullet
+"<li>  your text </li>"
+Table
+"<table border='1'>
+    <tr>
+        <td>   your text   </td>
+        <td>   your text   </td>
+    </tr>
+    <tr>
+        <td>   your text   </td>
+        <td>   your text   </td>
+    </tr>
+</table>"
+Title
+"<title>  Your page Title  </title>"
+Horizontal line
+<hr size="  you line size " width=" your line width  " color="  your line color ">
+Background image
+"<body background='  Filename  ' </body>"
+Background color
+"<body bgcolor=' color '> </body>"
+Text color
+"<body text='  color  '> </body>"
+Link color
+"<body link='  color  '> </body>"
+Visited link color
+"<body vlink='  color  '> </body>"
+Active link color
+"<body alink='  color  '> </body>"
+Script
+"<p><script language='  language  '><!--
+ you code
+--></script></p>"
